@@ -1,5 +1,5 @@
 # University-Portal-Project
-Develop a prototype for a university portal and design it with a software engineering focus
+Develop a prototype for CS 487 software engineering class to design a university portal
 
 Video demonstrations:
 Part 1: https://youtu.be/Ur-lkbNdqTk
